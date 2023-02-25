@@ -27,5 +27,19 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p>
-    <img alt="Photoshop" title="Photoshop" height="55" width="auto" src="https://icons8.com/icon/K8Ttz87NEjvn/adobe-photoshop">
+    <img alt="Html" title="Html" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/html-5.png">
+    <img alt="CSS" title="CSS" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/css3.png">
+    <img alt="Javascript" title="Javascript" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/javascript.gif">
+    <img alt="Figma" title="Figma" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/figma.png">
+    <img alt="Photoshop" title="Photoshop" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/photoshop.png">
+    <img alt="Illustrator" title="Illustrator" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/illustrator.png">
+    <img alt="React" title="React" height="48" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/react.png">
+    <img alt="SASS" title="SASS" height="48" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/sass.png">
 </p>
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vndanycode&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vndanycode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
