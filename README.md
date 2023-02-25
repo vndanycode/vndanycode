@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vndanycode/vndanycode/main/photo_me.png" height="200"/>
+  <img src="https://github.com/vndanycode/vndanycode/raw/master/photo_me.png" height="200"/>
 </p>
 
 
