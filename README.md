@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vndanycode/vndanycode/raw/main/photo_emoji.jpg" height="200"/>
+  <img src="https://github.com/vndanycode/vndanycode/raw/main/photo__emoji.png" height="200"/>
 </p>
 
 
