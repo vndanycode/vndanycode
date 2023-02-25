@@ -12,9 +12,8 @@
 - 😉 &nbsp; Study of web technologies and website development.
 - 🎓 &nbsp; Studied the basics of programming at IT Step.
 - ⚡ &nbsp; Student.
-- 
 
 <br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vndanycode=Profile%20views&color=0e75b6&style=flat-square" alt="Pavan MG" />
+  <img src="https://komarev.com/ghpvc/?username=vndanycode&label=Profile%20views&color=0e75b6&style=flat-square" alt="Danil VL" />
 </p>
