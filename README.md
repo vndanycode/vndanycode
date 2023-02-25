@@ -4,18 +4,17 @@
 
 
 <h2> Hey there👋! I'm Danil VL.</h2>
+<h3> Passionate Front-end Developer and JavaScript </h3>
 
-<!--
-**vndanycode/vndanycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 &nbsp;About Me 
 
-Here are some ideas to get you started:
+- 💻 &nbsp; Self Taught Frontend Developer.
+- 😉 &nbsp; Study of web technologies and website development.
+- 🎓 &nbsp; Studied the basics of programming at IT Step.
+- ⚡ &nbsp; Student.
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vndanycode=Profile%20views&color=0e75b6&style=flat-square" alt="Pavan MG" />
+</p>
