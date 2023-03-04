@@ -33,7 +33,7 @@
     <img alt="Figma" title="Figma" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/figma.png">
     <img alt="Photoshop" title="Photoshop" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/photoshop.png">
     <img alt="Illustrator" title="Illustrator" height="55" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/illustrator.png">
-    <img alt="React" title="React" height="48" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/react.png">
+<!--     <img alt="React" title="React" height="48" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/react.png"> -->
     <img alt="SASS" title="SASS" height="48" width="auto" src="https://github.com/vndanycode/vndanycode/raw/main/img_icons/sass.png">
 </p>
 
